@@ -14,8 +14,7 @@
 
 
 
-<img alt="Night Coding" src="![WhatsApp Image 2025-08-05 at 13 42 48_3c7899d3](https://github.com/user-attachments/assets/3b324f78-0f3a-4944-81aa-64ed1a381394)
-" align="right"/>
+<img alt="Night Coding" src="ima.png" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
