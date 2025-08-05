@@ -1,6 +1,6 @@
 
 
-<img alt="Night Coding" src="ima.png" width='40' align="left"/><h2 align="left">Hey there! I'm Jzam</h2>
+<h1>Hey there! I'm Jzam</h1> 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
@@ -14,7 +14,7 @@
 
 
 
-<img alt="Night Coding" src="ima.png" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
